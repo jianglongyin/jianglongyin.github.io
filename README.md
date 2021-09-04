@@ -5,7 +5,7 @@
 
 ### 关于该库
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ### 关于使用
 没有写清楚的地方让您不明白，可以发邮件到我的邮箱：1621057679@qq.com
